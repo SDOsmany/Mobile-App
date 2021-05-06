@@ -11,8 +11,11 @@ Simple mobile app to git started ;)
     ` git clone https://github.com/SDOsmany/Mobile-App.git `
     
     **Note : this will clone all the files in this repo to the path(directory) you are on in the git terminal
+2. Create a ` .gitignore ` file to ingore changes to files we don't need to keep track of
+
+    ` touch .gitignore `
     
-2. Create an environment varaible file
+3. Create an environment varaible file
 
     ` touch .env `
     
