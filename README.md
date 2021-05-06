@@ -4,7 +4,7 @@ Simple mobile app to git started ;)
 
 
 
-##Quick Setup
+## Quick Setup
 
 1. Clone the repository
 
